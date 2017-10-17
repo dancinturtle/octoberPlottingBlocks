@@ -7,3 +7,6 @@ October cohort's Plotting Your Blocks
 4.  ADD your code for the assignment Plotting Your Blocks to your folder. BE CERTAIN there are no nested git repos!
 5.  PUSH your code to your own remote repo.
 6.  Send me a PULL REQUEST.
+
+
+This is an assignment to test CSS positioning by Ryan & Franklin. 
