@@ -1,0 +1,26 @@
+#wrapper {
+    background: #d5d2ae;
+    font-weight: bolder;
+    font-size: 200%;
+    width: 680px;
+    text-align: center;
+    padding: 10px;
+}
+p img {
+    background: white;
+    width: 100px;
+    height: 50px;
+}
+.blue{
+    background: #82b4ee;
+}
+.red {
+    background: #f36870;
+}
+.blue, .red{
+    padding: 10px;
+    border: 3px solid black;
+    width: 100px;
+    height: 100px;
+    margin: 0px;
+}
