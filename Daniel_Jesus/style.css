@@ -1,28 +1,26 @@
 #wrapper {
     background: #d5d2ae;
-    font-size: 120%;
     font-weight: bolder;
-    width: 970px;
+    font-size: 200%;
+    width: 680px;
     text-align: center;
+    padding: 10px;
 }
-h1 img {
+p img {
     background: white;
     width: 100px;
     height: 50px;
 }
 .blue{
     background: #82b4ee;
-    padding: 10px;
-    border: 5px solid black;
-    width: 100px;
-    height: 100px;
-    margin: 6px 3px;
 }
 .red {
     background: #f36870;
+}
+.blue, .red{
     padding: 10px;
-    border: 5px solid black;
+    border: 3px solid black;
     width: 100px;
     height: 100px;
-    margin: 6px 3px;
+    margin: 0px;
 }
