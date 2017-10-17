@@ -1,0 +1,50 @@
+
+
+.headimg, h1 {
+    display: inline;
+    text-align: center;
+}
+
+#header {
+    margin: 0 auto;
+}
+
+.headimg {
+    height: 100px;
+    width: 200px;
+}
+
+.content img {
+    height: 148px;
+    width: 148px;
+    margin: 10px;
+    /* display: block; */
+    text-align: center;
+
+}
+
+#wrapper {
+    background-color: #D5D1B2;
+    padding: 15px;
+    width: 950px;
+    text-align: center;
+ 
+}
+
+.gitimg {
+    display: inline-block;
+    border: 4px solid;
+    margin: 5px;
+}
+
+.content {
+    margin: 0 auto;
+}
+
+.blue {
+    background-color: #7FB5E9;
+}
+
+.pink {
+    background-color: #F86771;
+}
