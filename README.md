@@ -9,4 +9,3 @@ October cohort's Plotting Your Blocks
 6.  Send me a PULL REQUEST.
 
 
-This is an assignment to test CSS positioning by Ryan & Franklin. 
